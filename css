@@ -1,0 +1,33 @@
+body {
+	background: linear-gradient(to right, #ad5389, #3c1053);
+	font-family: 'Montserrat', sans-serif;
+}
+#main {
+	text-align: center;
+	color: #fff9fe;
+}
+#img-div {
+	color: #fff9fe;
+	text-align: center;
+}
+#image {
+	border: 3px solid #fff9fe;
+	border-radius: 12px;
+	max-width: 100%;
+  height: auto;
+}
+#tribute-info {
+	text-align: center;
+	color: #fff9fe;
+}
+ul {
+	display: inline-block;
+	text-align: left;
+}
+footer {
+	text-align: center;
+	color: #fff9fe;
+}
+a {
+	color: #fff9fe;
+}
